@@ -1,0 +1,13 @@
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\bin\Debug\netcoreapp3.1\MarsRoverAydin2.exe
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\bin\Debug\netcoreapp3.1\MarsRoverAydin2.deps.json
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\bin\Debug\netcoreapp3.1\MarsRoverAydin2.runtimeconfig.json
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\bin\Debug\netcoreapp3.1\MarsRoverAydin2.runtimeconfig.dev.json
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\bin\Debug\netcoreapp3.1\MarsRoverAydin2.dll
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\bin\Debug\netcoreapp3.1\MarsRoverAydin2.pdb
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\obj\Debug\netcoreapp3.1\MarsRoverAydin2.csprojAssemblyReference.cache
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\obj\Debug\netcoreapp3.1\MarsRoverAydin2.AssemblyInfoInputs.cache
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\obj\Debug\netcoreapp3.1\MarsRoverAydin2.AssemblyInfo.cs
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\obj\Debug\netcoreapp3.1\MarsRoverAydin2.csproj.CoreCompileInputs.cache
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\obj\Debug\netcoreapp3.1\MarsRoverAydin2.dll
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\obj\Debug\netcoreapp3.1\MarsRoverAydin2.pdb
+C:\Users\AYDIN\source\repos\MarsRoverAydin2\MarsRoverAydin2\obj\Debug\netcoreapp3.1\MarsRoverAydin2.genruntimeconfig.cache
